@@ -1,4 +1,4 @@
 echo "Test"
-echo "Test"
-echo "Test" 
+echo "1"
+echo "2" 
 
